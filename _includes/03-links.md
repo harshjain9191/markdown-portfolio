@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+#### My LinkedIn Profile
+![Click to view](www.linkedin.com/in/harsh-jain-4a268a1b2)
